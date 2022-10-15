@@ -1,3 +1,3 @@
 # FirstApiJStack
 
-API criada no curso JStack, onde é feito uma API REST utilizando o minimo de libs prontas.
+Rest API criada no curso JStack, utilizando NodeJs e o minimo de libs prontas possivel.
